@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="306" height="64" viewBox="0 0 306 64">
+  <g id="Group_10" data-name="Group 10" transform="translate(-1128.828 -343)">
+    <rect id="Rectangle_694" data-name="Rectangle 694" width="306" height="64" transform="translate(1128.828 343)" fill="#3c6e71"/>
+    <g id="Heart" transform="translate(1148 363.119)">
+      <path id="Heart-2" data-name="Heart" d="M25.227,2.215a7.36,7.36,0,0,0-10.476,0l-1.03,1.03-1.03-1.03A7.407,7.407,0,0,0,2.215,12.69L13.721,24.2,25.227,12.69a7.36,7.36,0,0,0,0-10.476" transform="translate(-0.025 -0.025)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Comment" transform="translate(1187.688 363.118)">
+      <path id="Chat" d="M7.23,11.941a1.389,1.389,0,0,0,1.446,1.493h5.784a1.472,1.472,0,0,0,1.446-1.493,1.389,1.389,0,0,0-1.446-1.493H8.676A1.472,1.472,0,0,0,7.23,11.941ZM0,7.463A7.278,7.278,0,0,1,7.23,0h8.676a7.278,7.278,0,0,1,7.23,7.463V22.389a1.389,1.389,0,0,1-1.446,1.493H7.23A7.278,7.278,0,0,1,0,16.418Z" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <text id="SAVE" transform="matrix(1, 0.017, -0.017, 1, 1338.095, 381.75)" fill="#fff" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">SAVE</tspan></text>
+    <g id="Add" transform="translate(1396.828 365)">
+      <path id="Union_1" data-name="Union 1" d="M9.187,20V11.25H0V8.75H9.187V0h2.626V8.75H21v2.5H11.813V20Z" transform="translate(1)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
